@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Vado — learning by building with data" width="100%">
+  <img src="profile-banner.svg" alt="Vado — learning by building with data" width="100%">
 </div>
 
 ## Hi, I'm Vado
