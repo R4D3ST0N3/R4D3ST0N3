@@ -26,4 +26,4 @@ I'm a student in Indonesia interested in engineering, data, and machine learning
 
 Guitar and music, calisthenics and team sports, games, stories, and learning Japanese and Mandarin.
 
-[Portfolio repository](https://github.com/R4D3ST0N3/personal-portfolio-site) · [LinkedIn](https://www.linkedin.com/in/raden-mahaghaniyy-367142322/)
+[Portfolio repository]([https://github.com/R4D3ST0N3/personal-portfolio-site](https://r4d3st0n3.github.io/personal-portfolio-site/)) · [LinkedIn](https://www.linkedin.com/in/raden-mahaghaniyy-367142322/)
